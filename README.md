@@ -1,2 +1,2 @@
 # go-webserver
-Sample Go Webserver
+Sample Go Webserver that implements CRUD model
